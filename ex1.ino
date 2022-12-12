@@ -53,6 +53,6 @@ bool converte(int valor_sensor, int valor_cor) {
     return true;
   }
   else {
-    return false;}
-
+    return false;
+  }
 }
